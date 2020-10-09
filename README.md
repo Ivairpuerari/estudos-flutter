@@ -4,5 +4,5 @@
  
  Apps desenvolvidos:
  
- 1. peoples counter
+ 1. people counter
  2. IMC Calculator
